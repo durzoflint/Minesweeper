@@ -17,25 +17,25 @@ Safe squares are denoted by “.” and mine squares by “*,” both without th
 Output:
 For each ﬁeld, print the message Field #x: on a line alone, where x stands for the number of the ﬁeld starting from 1. The next n lines should contain the ﬁeld with the “.” characters replaced by the number of mines adjacent to that square. There must be an empty line between ﬁeld outputs.
 
-Sample Input
-44
-*...
-....
-.*..
-....
-35
-**...
-.....
-.*...
-00
+                                                          Sample Input
+                                                          44
+                                                          *...
+                                                          ....
+                                                          .*..
+                                                          ....
+                                                          35
+                                                          **...
+                                                          .....
+                                                          .*...
+                                                          00
 
-Sample Output
-Field #1:
-*100
-2210
-1*10
-1110
-Field #2:
-**100
-33200
-1*100
+                                                          Sample Output
+                                                          Field #1:
+                                                          *100
+                                                          2210
+                                                          1*10
+                                                          1110
+                                                          Field #2:
+                                                          **100
+                                                          33200
+                                                          1*100
